@@ -2,7 +2,7 @@
 
 // import { Dashboard } from './pages/Dashboard'
 import { CampDashboard } from './pages/CampDashboard'
-import { Home } from './pages/Home'
+// import { Home } from './pages/Home'
 // 
 
 function App() {
